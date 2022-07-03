@@ -4,4 +4,4 @@ function returnVoid(message: string): void {
   return undefined
 }
 
-const r = returnVoid('리턴이 없다')
+const r = returnVoid('리턴x')
