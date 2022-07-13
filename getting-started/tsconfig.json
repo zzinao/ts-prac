@@ -1,0 +1,7 @@
+{
+  "compileroption": {
+    "allowJs": true, //@ts-check의 역할
+    "checkJs": true, //@ts-check의 역할
+    "noImplicitAny": true // 모든 설정에 any라도 넣어야한다는 설정
+  }
+}
